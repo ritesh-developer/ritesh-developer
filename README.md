@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ritesh-developer
+- 👋 Hi, I’m @ritesh
 - 👀 I’m interested in computer 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me = riteshraj.developer@gmail.com
 
