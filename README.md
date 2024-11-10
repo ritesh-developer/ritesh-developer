@@ -34,18 +34,17 @@
 
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh8/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/ritesh-developer)
 
 
 ###
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ritesh-developer&color=blue)
-
-
 ![Visitors](https://komarev.com/ghpvc/?username=ritesh-developer&color=blue)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/ritesh-developer?style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/ritesh-developer?style=social)
 
 
