@@ -39,21 +39,7 @@
 
 ###
 
-# .github/workflows/update-readme.yml
-name: Update README
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update README with recent activity
-        uses: jasonelle/readme-activity-generator@v1
-
-  
 
 
 <!---
