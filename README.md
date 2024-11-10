@@ -35,6 +35,24 @@
 ### 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh8/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/ritesh-developer)
+
+
+###
+
+# .github/workflows/update-readme.yml
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with recent activity
+        uses: jasonelle/readme-activity-generator@v1
+
   
 
 
