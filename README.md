@@ -40,6 +40,7 @@
 ###
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ritesh-developer.visitor-badge)
+
 ![Visitors](https://komarev.com/ghpvc/?username=ritesh-developer&color=blue)
 
 
