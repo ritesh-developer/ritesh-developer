@@ -39,6 +39,14 @@
 
 ###
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ritesh-developer.visitor-badge)
+![Visitors](https://komarev.com/ghpvc/?username=ritesh-developer&color=blue)
+
+
+![GitHub followers](https://img.shields.io/github/followers/ritesh-developer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ritesh-developer?style=social)
+
+
 
 
 
